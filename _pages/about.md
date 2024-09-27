@@ -90,8 +90,8 @@ Kunze Jiang, **Yufan Zhou**, Wu Chao
 
 
 # 💻 Internships and Employments
-- *2022.01 - 2021.05*, Children’s Programming Instructor, [XiaoMaWang](https://www.xiaomawang.com/), China.
-- *2021.06 - 2022.03*, Children’s Programming Instructor, [E-Blocks Education](), China.(Part time)
+- *2022.01 - 2021.05*, Youth Programming Instructor, [XiaoMaWang](https://www.xiaomawang.com/), China.
+- *2021.06 - 2022.03*, Youth Programming Instructor, [E-Blocks Education](http://old.eblockschina.com/gyybl/), China.(Part time)
 - *2022.03 - 2023.06*, Research Assistant, [Center for Computational Social Science, Zhejiang University](https://mo.zju.edu.cn/css/#/), China.(Part time)
 - *2023.06 - now*, Research Assistant, [Center for Computational Social Science, Zhejiang University](https://mo.zju.edu.cn/css/#/), China.
 
