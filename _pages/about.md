@@ -17,42 +17,84 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# 🧐 About Me
+
+Hi there! I am a Research Assistant at Zhejiang University, under the supervision of<a href='https://person.zju.edu.cn/chaowu'> Prof. Chao Wu</a>. I completed my master’s degree in Human-Computer Interaction at Xi'an Jiaotong Liverpool University（The University of Liverpool） in March 2024, advised by <a href='https://yulingyun.com/'>Prof. Lingyun Yu</a>. and <a href='https://scholar.xjtlu.edu.cn/en/persons/ChengtaoJi'>Dr. Chengtao Ji</a>. Before that, I received my Bachelor’s degree at Nanjing Xiaozhuang University in July 2021 supervised by  <a href='https://ie.njxzc.edu.cn/1037/listm.htm'>Prof. Hao Zheng</a>.
+
+
+I am currently very interested in **human-computer interaction, particularly in Human-AI Interaction and Human-LLM Interaction.** I am honored to be mentored by <a href='https://yucheng.gold/'>Dr. Yucheng Jin</a>  in this field. Additionally, I still have some interest in 3D Vision. ***If you are interested in any form of collaboration, please  don’t hesitate to drop me an email***.
+
+
+
+
+# 🚩 Most Important
+
+
+***<font color="red">I am currently seeking research assistant positions, as well as PhD opportunities for 2025/2026. If there are self-funded remote internship opportunities in the U.S. (up to one year), please feel free to contact me!!! I look forward to hearing from you if you’re interested in my background and research interests!!!</font>***
+
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05*: &nbsp;🎉🎉 Our Paper is accepted by FedCSIS 2024. 
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FedCSIS 2024</div><img src='images/pipeline.png' alt="sym" width="100%" max-height="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[ERF: Multi-Attention Fusion Artistic Radiance Fields](paper/ERF.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Kunze Jiang, **Yufan Zhou**, Wu Chao
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](paper/ERF.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A work on style transfer in NeRF. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/UI.png' alt="sym" width="100%" max-height="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[Visual Analysis of Heterogeneous Text Data based on Federated Learning](paper/Federated_Learning_Vis.pdf)
+
+**Yufan Zhou**, Jiayin Li, Dingding Chen, Chengtao Ji,Yirui Huang, Chao Wu, Lingyun Yu
+
+[**Paper**](paper/Federated_Learning_Vis.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Analyze the impact of heterogeneous text data on federated learning. 
+</div>
+</div>
+
+
+- [张艺玲，徐玮，**周宇帆**，王雅琳，郑豪. 基于人脸识别的精准商品推送系统](paper/recommendation.pdf) **智能计算机与应用,2020,10(09):199-202.**
+
+- [**周宇帆**，郑豪，徐玮，南京晓庄学院.一种大数据下商品精准推荐系统]( ) **软件著作权(Software Copyright)2020SR0802224**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06* First Prize (Provincial) & Excellent Award (National), 11th Blue Bridge Cup JAVA Software Development
+- *2020.08* First Prize (University) & Third Prize (Provincial), 6th “Internet+” College Student Innovation and Entrepreneurship Competition
+- *2019.05* Merit Student of Jiangsu Province 
+- *2018.12* National Scholarship 
+- *2016-2019* First Class Scholarship & Merit Student, Changzhou Vocational Institute of Engineering (Three Consecutive Years) 
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2024.04*, MSc in Human-Computer Interaction, University of Liverpool. 
+- *2019.09 - 2021.06*, B.Eng. in Software Engineering, Nanjing Xiaozhuang University. 
+- *2016.09 - 2019.06*, College Diploma, Changzhou Vocational Institute of Engineering. (Ranking 5/354)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Internships and Employments
+- *2022.01 - 2021.05*, Children’s Programming Instructor, [XiaoMaWang](https://www.xiaomawang.com/), China.
+- *2021.06 - 2022.03*, Children’s Programming Instructor, [E-Blocks Education](), China.(Part time)
+- *2022.03 - 2023.06*, Research Assistant, [Center for Computational Social Science, Zhejiang University](https://mo.zju.edu.cn/css/#/), China.(Part time)
+- *2023.06 - now*, Research Assistant, [Center for Computational Social Science, Zhejiang University](https://mo.zju.edu.cn/css/#/), China.
+
+# 🎙 Miscellaneous
+I have an adorable cat and a dog at home. We also have four kittens in our lab that I help take care of. They are all incredibly cute!!! 
+<p><img src="images/1.jpg" width="220" height="400" alt="图片名称" align="center" />                  <img src="images/4.jpg" width="220" height="450" alt="图片名称" align="center" />                  <img src="images/6.jpg" width="220" height="450" alt="图片名称" align="center" />  <img src="images/2.jpg" width="220" height="450" alt="图片名称" align="center" /> </p>
