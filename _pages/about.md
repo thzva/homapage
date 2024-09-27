@@ -41,7 +41,7 @@ I am currently very interested in **human-computer interaction, particularly in 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FedCSIS 2024</div><img src='images/pipeline.png' alt="sym" width="100%" max-height="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FedCSIS 2024</div><img src='images/pipelin.png' alt="sym" width="100%" max-height="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ERF: Multi-Attention Fusion Artistic Radiance Fields](paper/ERF.pdf)
