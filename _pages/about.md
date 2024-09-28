@@ -71,9 +71,9 @@ Kunze Jiang, **Yufan Zhou**, Wu Chao
 </div>
 
 
-<code class="language-plaintext highlighter-rouge"><span style="background-color: lightblue; padding: 2px 4px; border-radius: 3px;">Software Copyright</span></code> [Accurate Commodity Recommendation System Based On Face Recognition,](paper/recommendation.pdf) Yiling Zhang, Wei Xu, **Yufan Zhou**, Yalin Wang, Hao Zheng.
+<code class="language-plaintext highlighter-rouge"><span style="background-color: lightblue;">Intelligent Computer and Application</span></code> [Accurate Commodity Recommendation System Based On Face Recognition,](paper/recommendation.pdf) Yiling Zhang, Wei Xu, **Yufan Zhou**, Yalin Wang, Hao Zheng.
 
-<code class="language-plaintext highlighter-rouge"><span style="background-color: lightblue; padding: 2px 4px; border-radius: 3px;">Software Copyright</span></code> [An accurate Commodity Recommendation System Under Big Data,]( )**Yufan Zhou**，Hao Zheng，Wei Xu，Nanjing Xiaozhuang University.
+<code class="language-plaintext highlighter-rouge"><span style="background-color: lightblue;">Software Copyright</span></code> [An accurate Commodity Recommendation System Under Big Data,]( )**Yufan Zhou**，Hao Zheng，Wei Xu，Nanjing Xiaozhuang University.
 
 # 🎖 Honors and Awards
 - *2021.06* First Prize (Provincial) & Excellent Award (National), 11th Blue Bridge Cup JAVA Software Development
