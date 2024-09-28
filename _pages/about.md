@@ -26,6 +26,8 @@ Hi there! I am a Research Assistant at Zhejiang University, under the supervisio
 I am currently very interested in **human-computer interaction, particularly in Human-AI Interaction and Human-LLM Interaction.** I am honored to be mentored by <a href='https://yucheng.gold/'>Dr. Yucheng Jin</a>  in this field. Additionally, I still have some interest in 3D Vision. ***If you are interested in any form of collaboration, please  don’t hesitate to drop me an email or call me directly at +86 13912780195(same for Wechat)***.
 
 
+**Here is my <a href='https://github.com/thzva/homapage/paper/CV.pdf'>CV</a>**
+
 
 
 # 🚩 Most Important
