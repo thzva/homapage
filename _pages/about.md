@@ -71,9 +71,9 @@ Kunze Jiang, **Yufan Zhou**, Wu Chao
 </div>
 
 
-- [张艺玲，徐玮，**周宇帆**，王雅琳，郑豪. 基于人脸识别的精准商品推送系统](paper/recommendation.pdf) **智能计算机与应用,2020,10(09):199-202.**
+- [Yiling Zhang, Wei Xu, **Yufan Zhou**, Yalin Wang, Hao Zheng. Accurate Commodity Recommendation System Based On Face Recognition](paper/recommendation.pdf) **Intelligent Computer and Application(智能计算机与应用),2020,10(09):199-202.**
 
-- [**周宇帆**，郑豪，徐玮，南京晓庄学院.一种大数据下商品精准推荐系统]( ) **软件著作权(Software Copyright)2020SR0802224**
+- [**Yufan Zhou**，Hao Zheng，Wei Xu，Nanjing Xiaozhuang University. An accurate Commodity Recommendation System Under Big Data]( ) **软件著作权(Software Copyright)2020SR0802224**
 
 # 🎖 Honors and Awards
 - *2021.06* First Prize (Provincial) & Excellent Award (National), 11th Blue Bridge Cup JAVA Software Development
@@ -92,8 +92,8 @@ Kunze Jiang, **Yufan Zhou**, Wu Chao
 # 💻 Internships and Employments
 - *2022.01 - 2021.05*, Youth Programming Instructor, [XiaoMaWang](https://www.xiaomawang.com/), China.
 - *2021.06 - 2022.03*, Youth Programming Instructor, [E-Blocks Education](http://old.eblockschina.com/gyybl/), China.(Part time)
-- *2022.03 - 2023.06*, Research Assistant, [Center for Computational Social Science, Zhejiang University](https://mo.zju.edu.cn/css/#/), China.(Part time)
-- *2023.06 - now*, Research Assistant, [Center for Computational Social Science, Zhejiang University](https://mo.zju.edu.cn/css/#/), China.
+- *2022.03 - 2023.06*, Research Assistant, [Computational Social Science Research Center, Zhejiang University](https://mo.zju.edu.cn/css/#/), China.(Part time)
+- *2023.06 - now*, Research Assistant, [Computational Social Science Research Center, Zhejiang University](https://mo.zju.edu.cn/css/#/), China.
 
 # 🎙 Miscellaneous
 I have an adorable cat and a dog at home. We also have four kittens in our lab that I help take care of. They are all incredibly cute!!! 
