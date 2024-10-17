@@ -33,7 +33,7 @@ I am currently very interested in **human-computer interaction, particularly in 
 # 🚩 Most Important
 
 
-***<font color="red">I am currently seeking PhD opportunities for 2025/2026. If there are internship opportunities in the U.S., please feel free to contact me!!! I look forward to hearing from you if you’re interested in my background and research interests!!!</font>***
+***<font color="red">I am currently seeking PhD opportunities for 2025/2026. I look forward to hearing from you if you’re interested in my background and research interests!!!</font>***
 
 
 
@@ -51,8 +51,9 @@ I am currently very interested in **human-computer interaction, particularly in 
 Kunze Jiang, **Yufan Zhou**, Wu Chao
 
 [**Paper**](paper/ERF.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A work on style transfer in NeRF. 
-</div>
+- Enhance style transfer in NeRF using multi-attention mechanisms and cross loss functions.
+- Supervise an undergraduate student to publish his first paper.
+-  </div>
 </div>
 
 
