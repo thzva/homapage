@@ -74,7 +74,7 @@ Kunze Jiang, **Yufan Zhou**, Wu Chao
 </div>
 
 
-- <span style="background-color: lightblue;"><code class="language-plaintext highlighter-rouge">Intelligent Computer and Application</code></span> [Accurate Commodity Recommendation System Based On Face Recognition,](paper/recommendation.pdf) Yiling Zhang, Wei Xu, **Yufan Zhou**, Yalin Wang, Hao Zheng.
+- <span style="background-color: lightblue;"><code class="language-plaintext highlighter-rouge">Intelligent Computer and Application</code></span> [Accurate Commodity Recommendation System Based On Face Recognition,](paper/recommendation.pdf) Yiling Zhang, Wei Xu, **Yufan Zhou**, Yalin Wang, Hao Zheng. (Actual completion person)
 
 - <span style="background-color: lightblue;"><code class="language-plaintext highlighter-rouge">Software Copyright</code></span> [An accurate Commodity Recommendation System Under Big Data,]( )**Yufan Zhou**，Hao Zheng，Wei Xu，Nanjing Xiaozhuang University.
 
