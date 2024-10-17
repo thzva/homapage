@@ -33,7 +33,7 @@ I am currently very interested in **human-computer interaction, particularly in 
 # 🚩 Most Important
 
 
-***<font color="red">I am currently seeking PhD opportunities for 2025/2026. If there are self-funded remote internship opportunities in the U.S. (up to one year), please feel free to contact me!!! I look forward to hearing from you if you’re interested in my background and research interests!!!</font>***
+***<font color="red">I am currently seeking PhD opportunities for 2025/2026. If there are internship opportunities in the U.S., please feel free to contact me!!! I look forward to hearing from you if you’re interested in my background and research interests!!!</font>***
 
 
 
