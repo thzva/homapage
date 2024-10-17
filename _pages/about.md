@@ -53,7 +53,7 @@ Kunze Jiang, **Yufan Zhou**, Wu Chao
 [**Paper**](paper/ERF.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Enhance style transfer in NeRF using multi-attention mechanisms and cross loss functions.
 - Supervise an undergraduate student to publish his first paper.
--  </div>
+</div>
 </div>
 
 
