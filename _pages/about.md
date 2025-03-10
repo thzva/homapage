@@ -44,7 +44,7 @@ I am currently very interested in **in human-llm interaction and llm based agent
 # 📝 Publications 
 
 
-- <span style="background-color: lightblue;"><code class="language-plaintext highlighter-rouge">IET Computer Vision (CCF C)</code></span> [MRF: Multi-Attention Fusion Artistic Radiance Fields and beyond,]( )Qianru Chen, **Yufan Zhou**, Xintong Hou, Kunze Jiang, Jincheng Li, Chao Wu.
+- <span style="background-color: lightblue;"><code class="language-plaintext highlighter-rouge">IET Computer Vision (CCF C)</code></span> [MRF: Multi-Attention Fusion Artistic Radiance Fields and beyond,]( ) Qianru Chen, **Yufan Zhou**, Xintong Hou, Kunze Jiang, Jincheng Li, Chao Wu.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FedCSIS 2024</div><img src='images/pipelin.png' alt="sym" width="100%" max-height="80%"></div></div>
 <div class='paper-box-text' markdown="1">
