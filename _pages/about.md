@@ -38,6 +38,7 @@ I am currently very interested in **in human-llm interaction and llm based agent
 
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 Our Paper is accepted by IET Computer Vision. 
 - *2024.05*: &nbsp;🎉🎉 Our Paper is accepted by FedCSIS 2024. 
 
 
