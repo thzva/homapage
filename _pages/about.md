@@ -23,7 +23,7 @@ redirect_from:
 Hi there! I am a Research Assistant in Computational Social Science Research Center at Zhejiang University, under the supervision of<a href='https://person.zju.edu.cn/chaowu'> Prof. Chao Wu</a>. I completed my master’s degree in Human-Computer Interaction at Xi'an Jiaotong Liverpool University（The University of Liverpool） in March 2024, advised by <a href='https://yulingyun.com/'>Prof. Lingyun Yu</a>. and <a href='https://scholar.xjtlu.edu.cn/en/persons/ChengtaoJi'>Dr. Chengtao Ji</a>. Before that, I received my Bachelor’s degree at Nanjing Xiaozhuang University in July 2021 supervised by  <a href='https://ie.njxzc.edu.cn/1037/listm.htm'>Prof. Hao Zheng</a>.
 
 
-I am currently very interested in **in human-llm interaction and llm based agent.** Of course, I'm also interested in other aspects of LLMs. I am honored to be mentored by <a href='https://yucheng.gold/'>Dr. Yucheng Jin</a> in this field. I also work closely with <a href='https://zhenwang9102.github.io/'>Dr. Zhen Wang</a> and <a href='https://luoxiao12.github.io/'>Dr. Xiao Luo</a>. ***If you are interested in any form of collaboration, please don’t hesitate to drop me an email or call me directly at +86 13912780195(same for Wechat)***.
+I am currently very interested in **in human-llm interaction and llm based agent.** Of course, I'm also interested in other aspects of LLMs. In the field of Human-AI Interaction, I have had the privilege of collaborating extensively with <a href='https://yucheng.gold/'>Dr. Yucheng Jin</a>. I also work closely with <a href='https://zhenwang9102.github.io/'>Dr. Zhen Wang</a> and <a href='https://luoxiao12.github.io/'>Dr. Xiao Luo</a>. ***If you are interested in any form of collaboration, please don’t hesitate to drop me an email or call me directly at +86 13912780195(same for Wechat)***.
 
 
 **Here is my [CV](paper/CV.pdf)**
@@ -45,7 +45,7 @@ I am currently very interested in **in human-llm interaction and llm based agent
 # 📝 Publications 
 
 
-- <span style="background-color: lightblue;"><code class="language-plaintext highlighter-rouge">IET Computer Vision (CCF C)</code></span> [MRF: Multi-Attention Fusion Artistic Radiance Fields and beyond,]( ) Qianru Chen, **Yufan Zhou**, Xintong Hou, Kunze Jiang, Jincheng Li, Chao Wu.
+- <span style="background-color: lightblue;"><code class="language-plaintext highlighter-rouge">IET Computer Vision [CCF C]</code></span> [MRF: Multi-Attention Fusion Artistic Radiance Fields and beyond,]( ) Qianru Chen, **Yufan Zhou**, Xintong Hou, Kunze Jiang, Jincheng Li, Chao Wu.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FedCSIS 2024</div><img src='images/pipelin.png' alt="sym" width="100%" max-height="80%"></div></div>
 <div class='paper-box-text' markdown="1">
