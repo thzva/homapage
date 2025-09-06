@@ -110,8 +110,10 @@ Kunze Jiang, **Yufan Zhou**, Wu Chao
 I have a kitty called Naitang, and I adore it!! 🐱💕
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="images/1.1.jpg" width="180" height="320" alt="Pet photo" style="margin: 5px; border-radius: 8px;" />
-  <img src="images/1.2.jpg" width="180" height="320" alt="Pet photo" style="margin: 5px; border-radius: 8px;" />
+  <img src="images/1.1.jpg" 
+     width="180" height="320" 
+     alt="Pet photo" 
+     style="margin: 5px; border-radius: 8px; transform: rotate(90deg);" />
   <img src="images/1.4.jpg" width="180" height="320" alt="Pet photo" style="margin: 5px; border-radius: 8px;" />
 </div>
 
