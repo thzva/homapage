@@ -20,20 +20,19 @@ redirect_from:
 
 # 🧐 About Me
 
-Hi there! I am a Research Assistant in Computational Social Science Research Center at Zhejiang University, under the supervision of<a href='https://person.zju.edu.cn/chaowu'> Prof. Chao Wu</a>. I completed my master’s degree in Human-Computer Interaction at Xi'an Jiaotong Liverpool University（The University of Liverpool） in March 2024, advised by <a href='https://yulingyun.com/'>Prof. Lingyun Yu</a>. and <a href='https://scholar.xjtlu.edu.cn/en/persons/ChengtaoJi'>Dr. Chengtao Ji</a>. Before that, I received my Bachelor’s degree at Nanjing Xiaozhuang University in July 2021 supervised by  <a href='https://ie.njxzc.edu.cn/1037/listm.htm'>Prof. Hao Zheng</a>.
+Hi there! I am an incoming PhD student at KU Leuven. Previously, I worked as a research assistant at Zhejiang University, under the supervision of<a href='https://person.zju.edu.cn/chaowu'> Prof. Chao Wu</a>. I completed my master’s degree in Human-Computer Interaction at Xi'an Jiaotong Liverpool University（The University of Liverpool）in March 2024, advised by <a href='https://yulingyun.com/'>Prof. Lingyun Yu</a>. Before that, I received my Bachelor’s degree at Nanjing Xiaozhuang University in July 2021 supervised by  <a href='https://ie.njxzc.edu.cn/1037/listm.htm'>Prof. Hao Zheng</a>.  
 
 
-I am currently very interested in **in human-llm interaction and llm based agent.** Of course, I'm also interested in other aspects of LLMs. In the field of Human-AI Interaction, I have had the privilege of collaborating extensively with <a href='https://yucheng.gold/'>Dr. Yucheng Jin</a>. I also work closely with <a href='https://zhenwang9102.github.io/'> Dr. Zhen Wang</a>. ***If you are interested in any form of collaboration, please don’t hesitate to drop me an email or call me directly at +86 13912780195(same for Wechat)***.
-
+My research focuses on **enabling large language models to interact with users in a more transparent, controllable, and personalized manner, thereby helping users better understand and utilize the models**. n my academic work, I collaborate closely with <a href='https://yucheng.gold/'>Dr. Yucheng Jin</a> and <a href='https://zhenwang9102.github.io/'> Dr. Zhen Wang</a>, from whom I have greatly benefited and learned. <a href='https://lyumanshanye.github.io/homepage/'> Lyumanshan Ye</a> is my closest academic buddy, despite our daily quarrels.
 
 **Here is my [CV](paper/CV.pdf)**
 
 
 
-# 🚩 Most Important
+<!-- # 🚩 Most Important
 
 
-***<font color="red">I am currently seeking PhD opportunities for 2025/2026. I look forward to hearing from you if you’re interested in my background and research interests!!!</font>***
+~~***<font color="red">I am currently seeking PhD opportunities for 2025/2026. I look forward to hearing from you if you’re interested in my background and research interests!!!</font>***~~ -->
 
 
 
@@ -97,7 +96,7 @@ Kunze Jiang, **Yufan Zhou**, Wu Chao
 
 
 # 💻 Internships and Employments
-- *2023.06 - now*, Research Assistant, [Computational Social Science Research Center, Zhejiang University](https://mo.zju.edu.cn/css/#/), China.
+- *2023.06 - 2025.09*, Research Assistant, [Computational Social Science Research Center, Zhejiang University](https://mo.zju.edu.cn/css/#/), China.
 - *2023.03 - 2023.06*, Research Assistant, [Computational Social Science Research Center, Zhejiang University](https://mo.zju.edu.cn/css/#/), China.(Part time)
 - *2022.06 - 2023.03*, Youth Programming Instructor, [E-Blocks Education](http://old.eblockschina.com/gyybl/), China.(Part time)
 - *2022.01 - 2022.05*, Youth Programming Instructor, [XiaoMaWang](https://www.xiaomawang.com/), China.
@@ -107,4 +106,14 @@ Kunze Jiang, **Yufan Zhou**, Wu Chao
 
 # 🎙 Miscellaneous
 I have an adorable cat and a dog at home. We also have four kittens in our lab that I help take care of. They are all incredibly cute!!! 
-<p><img src="images/1.jpg" width="220" height="400" alt="图片名称" align="center" />                  <img src="images/4.jpg" width="220" height="450" alt="图片名称" align="center" />                  <img src="images/6.jpg" width="220" height="450" alt="图片名称" align="center" />  <img src="images/2.jpg" width="220" height="450" alt="图片名称" align="center" /> </p>
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="images/1.1.jpg" width="180" height="320" alt="Pet photo" style="margin: 5px; border-radius: 8px;" />
+  <img src="images/1.2.jpg" width="180" height="320" alt="Pet photo" style="margin: 5px; border-radius: 8px;" />
+  <img src="images/1.4.jpg" width="180" height="320" alt="Pet photo" style="margin: 5px; border-radius: 8px;" />
+</div>
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="images/1.5.jpg" width="180" height="320" alt="Pet photo" style="margin: 5px; border-radius: 8px;" />
+  <img src="images/1.6.jpg" width="180" height="320" alt="Pet photo" style="margin: 5px; border-radius: 8px;" />
+</div>
