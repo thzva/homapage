@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yufan Zhou's Homepage"
-description              : "Research Assistant at Zhejiang University"
+description              : "PhD Student at KU Leuven"
 repository               : "thzva/yufan-zhou.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yufan Zhou"
-  avatar           : "images/profile.jpg"
-  bio              : "Zhejiang University"
-  location         : "Hangzhou, China"
+  avatar           : "images/main.jpg"
+  bio              : "PhD Student at KU Leuven"
+  location         : "Leuven, Belgium"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"

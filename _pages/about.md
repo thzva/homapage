@@ -23,7 +23,9 @@ redirect_from:
 Hi there! I am an incoming PhD student at KU Leuven. Previously, I worked as a research assistant at Zhejiang University, under the supervision of<a href='https://person.zju.edu.cn/chaowu'> Prof. Chao Wu</a>. I completed my master’s degree in Human-Computer Interaction at Xi'an Jiaotong Liverpool University（The University of Liverpool）in March 2024, advised by <a href='https://yulingyun.com/'>Prof. Lingyun Yu</a>. Before that, I received my Bachelor’s degree at Nanjing Xiaozhuang University in July 2021 supervised by  <a href='https://ie.njxzc.edu.cn/1037/listm.htm'>Prof. Hao Zheng</a>.  
 
 
-My research focuses on **enabling large language models to interact with users in a more transparent, controllable, and personalized manner, thereby helping users better understand and utilize the models**. n my academic work, I collaborate closely with <a href='https://yucheng.gold/'>Dr. Yucheng Jin</a> and <a href='https://zhenwang9102.github.io/'> Dr. Zhen Wang</a>, from whom I have greatly benefited and learned. <a href='https://lyumanshanye.github.io/homepage/'> Lyumanshan Ye</a> is my closest academic buddy, despite our daily quarrels.
+My research focuses on **enabling large language models to interact with users in a more transparent, controllable, and personalized manner, thereby helping users better understand and utilize the models**. n my academic work, I collaborate closely with <a href='https://yucheng.gold/'>Dr. Yucheng Jin</a> and <a href='https://zhenwang9102.github.io/'> Dr. Zhen Wang</a>, from whom I have greatly benefited and learned. 
+
+**<a href='https://lyumanshanye.github.io/homepage/'> Lyumanshan Ye</a> is my closest academic buddy, despite our daily quarrels.**
 
 **Here is my [CV](paper/CV.pdf)**
 
@@ -105,7 +107,7 @@ Kunze Jiang, **Yufan Zhou**, Wu Chao
 
 
 # 🎙 Miscellaneous
-I have an adorable cat and a dog at home. We also have four kittens in our lab that I help take care of. They are all incredibly cute!!! 
+I have a kitty called Naitang, and I adore it!! 🐱💕
 
 <div style="text-align: center; margin: 20px 0;">
   <img src="images/1.1.jpg" width="180" height="320" alt="Pet photo" style="margin: 5px; border-radius: 8px;" />
