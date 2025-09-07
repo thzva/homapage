@@ -113,11 +113,11 @@ I have a kitty called Naitang, and I adore it!! 🐱💕
   <img src="images/1.1.jpg" 
      width="180" height="320" 
      alt="Pet photo" 
-     style="margin: 15px; border-radius: 8px; transform: rotate(270deg); display: inline-block;" />
-  <img src="images/1.4.jpg" width="180" height="320" alt="Pet photo" style="margin: 15px; border-radius: 8px; display: inline-block;" />
+     style="margin: 15px; border-radius: 8px; transform: rotate(270deg); display: inline-block; vertical-align: top;" />
+  <img src="images/1.4.jpg" width="180" height="320" alt="Pet photo" style="margin: 15px; margin-top: 40px; border-radius: 8px; display: inline-block; vertical-align: top;" />
 </div>
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="images/1.5.jpg" width="180" height="320" alt="Pet photo" style="margin: 15px; border-radius: 8px; display: inline-block;" />
-  <img src="images/1.6.jpg" width="180" height="320" alt="Pet photo" style="margin: 15px; border-radius: 8px; display: inline-block;" />
+  <img src="images/1.5.jpg" width="180" height="320" alt="Pet photo" style="margin: 15px; margin-top: 30px; border-radius: 8px; display: inline-block; vertical-align: top;" />
+  <img src="images/1.6.jpg" width="180" height="320" alt="Pet photo" style="margin: 15px; border-radius: 8px; display: inline-block; vertical-align: top;" />
 </div>
