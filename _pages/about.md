@@ -15,10 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
-
-
-# 🧐 About Me
+# 🧐 About Me {#about-me}
 
 Hi there! I am a PhD student at KU Leuven. Previously, I worked as a research assistant at Zhejiang University, under the supervision of<a href='https://person.zju.edu.cn/chaowu'> Prof. Chao Wu</a>. I completed my master’s degree in Human-Computer Interaction at Xi'an Jiaotong Liverpool University（The University of Liverpool）in March 2024, advised by <a href='https://yulingyun.com/'>Prof. Lingyun Yu</a>. Before that, I received my Bachelor’s degree at Nanjing Xiaozhuang University in July 2021 supervised by  <a href='https://ie.njxzc.edu.cn/1037/listm.htm'>Prof. Hao Zheng</a>.  
 
