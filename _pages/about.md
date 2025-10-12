@@ -15,7 +15,6 @@ Hi there! I am a PhD student at KU Leuven. Previously, I worked as a research as
 
 My research focuses on **enabling large language models to interact with users in a more transparent, controllable, and personalized manner, thereby helping users better understand and utilize the models**. n my academic work, I collaborate closely with <a href='https://yucheng.gold/'>Dr. Yucheng Jin</a> and <a href='https://zhenwang9102.github.io/'> Dr. Zhen Wang</a>, from whom I have greatly benefited and learned. 
 
-**<a href='https://lyumanshanye.github.io/homepage/'> Lyumanshan Ye</a> is my closest academic buddy, despite our daily quarrels.**
 
 **Here is my [CV](paper/CV.pdf)**
 
